@@ -1,3 +1,4 @@
+![logo](https://github.com/Harsh-Agria/Harsh-Agria/blob/main/LInked%20in%20bg.png)
 <h1 align="center">Hi 👋, I'm Harsh Agria</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
