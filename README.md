@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Harsh Agria</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
