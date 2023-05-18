@@ -1,5 +1,8 @@
+![logo](https://github.com/Harsh-Agria/Harsh-Agria/blob/main/LInked%20in%20bg%20git.png)
 <h1 align="center">Hi 👋, I'm Harsh Agria</h1>
 <h3 align="center">A passionate 😎 B.Tech student at N.I.T Kurukshetra form India . Loves 💓 to code inovative new ideas.</h3>
+
+<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-agria&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-agria" /> </p>
 
